@@ -1,0 +1,1 @@
+This program will read a text file or simple text written in text feild as audio. User can also change speed of speech as well as volume. 
